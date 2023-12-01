@@ -4,6 +4,7 @@
 
 ```plaintext
 huggingface_hub
+datasets
 ```
 
 ## Usage

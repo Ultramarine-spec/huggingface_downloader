@@ -2,9 +2,9 @@
 
 ## Environment Dependencies
 
-```plaintext
-huggingface_hub
-datasets
+```bash
+pip install huggingface-hub
+pip install datasets
 ```
 
 ## Usage

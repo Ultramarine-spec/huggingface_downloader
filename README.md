@@ -13,6 +13,7 @@ Use the [Huggingface mirror](https://hf-mirror.com/) to download the dataset or 
 
 Just modify your local path or model/dataset name according to model.sh/dataset.sh as needed.
 ```shell
-bash model.sh/dataset.sh
+bash model.sh
+bash dataset.sh
 ```
 ![image](https://github.com/Ultramarine-spec/huggingface_downloader/assets/58057297/5c56e252-c4c8-44bb-87eb-39d9cf5bea4b)
